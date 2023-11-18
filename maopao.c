@@ -40,7 +40,7 @@ void maopao(void* pf, int sz, int width, int (*cmp)(const void* e1, const void* 
 }
 int main()
 {
-	//Ä£ÄâqsortÃ°ÅİÅÅĞò
+	//æ¨¡æ‹Ÿå†’æ³¡æ’åº
 	int arr[] = { 456,789,786,45, 4512,4612,5401,4512,7854,0457};
 	int sz = sizeof(arr) / sizeof(arr[0]);
 	maopao(arr, sz, sizeof(arr[0]), cmp);
