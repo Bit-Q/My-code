@@ -2,10 +2,10 @@
 #include <stdio.h>
 int main()
 {
-	//ËØÊıºÍ
-	int l = 0;//×óÖµ
-	int r = 0;//ÓÒÖµ
-	int sum = 0;//ËØÊıºÍ
+	//Ã‹Ã˜ÃŠÃ½ÂºÃ
+	int l = 0;//å·¦å€¼
+	int r = 0;//å³å€¼
+	int sum = 0;//å’Œ
 	scanf("%d %d", &l, &r);
 	if (l == 2)
 	{
