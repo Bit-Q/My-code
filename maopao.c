@@ -4,7 +4,7 @@
 
 int cmp(void* buf1,void * buf2)
 {
-	return (*(int*)buf2 - *(int*)buf1);
+	return (*(int*)buf2 - *(int*)buf1)
 }
 void jiaohuan(char* e1, char* e2, int i)
 {
