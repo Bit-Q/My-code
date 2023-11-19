@@ -45,7 +45,7 @@ int main()
 	int sz = sizeof(arr) / sizeof(arr[0]);
 	maopao(arr, sz, sizeof(arr[0]), cmp);
 
-	for (int p = 0; p < sz; p++)
+	for (int p = 0; p < sz; p++
 	{
 		printf("%d ", arr[p]);
 	}
