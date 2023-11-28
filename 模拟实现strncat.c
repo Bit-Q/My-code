@@ -19,16 +19,16 @@ int*my_strncat(char*p,const char*p1,int cout)
 		{
 			return 1;
 		}
-		if (sum == cout)
-		{
-			return 0;
-		}
+	}
+	if (sum == cout)
+	{
+		return 0;
 	}
 }
 int main()
 {
 	char arr1[20] = "abcdef";
-	char arr2[] = "aacdef";
+	char arr2[] = "abddef";
 	int ret=my_strncat(arr1, arr2, 5);
 	printf("%d", ret);
 	return 0;
