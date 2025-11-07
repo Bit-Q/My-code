@@ -1,0 +1,5 @@
+﻿  Correspond.c
+  main.c
+  正在生成代码...
+D:\Code\git\My-code\Address book\Correspond.c(50,1): warning C4715: “find”: 不是所有的控件路径都返回值
+  Address book.vcxproj -> D:\Code\git\My-code\Address book\x64\Debug\Address book.exe
